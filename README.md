@@ -1,0 +1,1 @@
+Certifique-se de substituir "sua-imagem.jpg" pelo caminho correto para a sua imagem. Este é apenas um ponto de partida e você pode personalizar e expandir conforme necessário para atender às suas necessidades específicas.
